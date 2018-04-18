@@ -1,0 +1,28 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+        <PreferenceScreen
+            android:key="share"
+            android:icon="@drawable/ic_share_black_24dp"
+            android:summary="@string/app_name"
+            android:title="@string/app_name"
+            />
+
+        <PreferenceScreen
+            android:key="evaluate"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:summary="@string/app_name"
+            android:title="@string/app_name" />
+
+    <PreferenceScreen
+        android:key="other"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:summary="@string/app_name"
+        android:title="@string/app_name"/>
+
+    <PreferenceScreen
+        android:key="evaluate"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:summary="@string/app_name"
+        android:title="@string/app_name" />
+
+</PreferenceScreen>

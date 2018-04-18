@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6ac4a2126f73debc42020ba0ed472bc762a7f7fd">
+        <dex dex="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_240410d478f719cb8e91519fe6557865c58342e7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_2b926c23b4b1374e3ff16ac2a987d823130506af\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_1ac2770167325bf2ae9ef8451ceb2e41e60fe6a2\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_f7ac7633e34f3d41ffae231765b97bb371f74b61\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_26b2201297ee0e32e1c604a87f50047f10c706cb\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.0_364b5b2b7b576448b52866e48a9f1aa02a41e87e\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_9567e0425bfc3ac6b0f4eae35e5671c719944353\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_5f0c467947cc8bb070f785f3e78b53f2d6787bed\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.0_87c83c931d4c6d03752ce95f3ed4bbb2ba8c1593\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_67e38cce81fe87298d0ed0afe6a42f261c56a47d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\exploded-aar\com.miguelcatalan\materialsearchview\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.miguelcatalan-materialsearchview-1.4.0_b999982f8c848d0ad609cab83c85e05869aee317\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_a04655631df4f3810fb7c3964d22504e8e4b8e65\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_ce7c1ad224b5d62fa8404f2f40247ab8bf7d5408\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a9331b3d0415bcb227f7f19518d450cf5b99ca12">
+        <dex dex="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_668d811c6ef6d3c41bd2c9f205afcc46a56810b7\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\Workspace\Mobile\work\listen\quranOnAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_7cf50aa9721c11e7a0a50313bf45798ec71a61e0\classes.dex" />
+    </item>
+
+</items>

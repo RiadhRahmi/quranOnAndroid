@@ -1,0 +1,179 @@
+<resources>
+
+    <string name="app_name"> تلاوات القرأن كاملة</string>
+    
+    <string name="title_activity_aya_list">أسماء السور</string>
+    <string name="search">بحث ...</string>
+    <string name="downlaod_file">تحميل الملف ...</string>
+
+    <string name="author1">أبو بكر الشاطري</string>
+    <string name="author2">أحمد الحذيفي</string>
+    <string name="author3">أحمد الحواشي</string>
+    <string name="author4">أحمد الطرابلسي</string>
+    <string name="author5">أحمد بن علي العجمي</string>
+    <string name="author6">أحمد خضر الطرابلسي</string>
+    <string name="author7">حمد سعود</string>
+    <string name="author8">أحمد صابر</string>
+    <string name="author9">حمد عامر</string>
+    <string name="author10">مد نعينع</string>
+    <string name="author11">أخيل عبدالحي روا</string>
+    <string name="author12">كرم العلاقمي</string>
+
+
+    <string name="author13">إبراهيم الأخضر</string>
+    <string name="author14">إبراهيم السعدان</string>
+    <string name="author15">إدريس أبكر</string>
+    <string name="author16">إبراهيم الجبرين</string>
+    <string name="author17">إبراهيم الجرمي</string>
+    <string name="author18">إبراهيم الدوسري</string>
+    <string name="author19">إبراهيم العسيري</string>
+    <string name="author20">أستاذ زامري</string>
+
+
+    <string name="author21">الحسيني العزازي</string>
+    <string name="author22">الدوكالي محمد العالم</string>
+    <string name="author23">الزين محمد أحمد</string>
+    <string name="author24"> العشري عمران</string>
+    <string name="author25">العيون الكوشي</string>
+    <string name="author26">الفاتح محمد الزبير</string>
+    <string name="author27">القارئ ياسين</string>
+
+    <string name="author28">توفيق الصايغ</string>
+    <string name="author29">جمال شاكر عبدالله</string>
+    <string name="author30">جمعان العصيمي</string>
+    <string name="author31">حاتم فريد الواع</string>
+
+    <string name="author32">خالد القحطاني</string>
+    <string name="author33">خالد المهنا</string>
+    <string name="author34">خالد عبدالكافي</string>
+    <string name="author35">خليفة الطنيجي</string>
+    <string name="author36">داود حمزة</string>
+    <string name="author37">رشيد إفراد</string>
+
+
+    <string name="author38">زكي داغستاني</string>
+    <string name="author39">سامي الدوسري</string>
+    <string name="author40">سعد الغامدي</string>
+    <string name="author41">سعود الشريم</string>
+    <string name="author42">سهل ياسين</string>
+    <string name="author43">سيد رمضان</string>
+
+    <string name="author44">شيرزاد عبدالرحمن طاهر</string>
+
+    <string name="author45">صابر عبدالحكم</string>
+    <string name="author46">صالح الصاهود</string>
+    <string name="author47">صلاح البدير</string>
+    <string name="author48">صلاح الهاشم</string>
+    <string name="author49">صلاح بو خاطر</string>
+    <string name="author50">طارق عبدالغني دعوب</string>
+    <string name="author51">عادل الكلباني</string>
+    <string name="author52">عادل ريان</string>
+    <string name="author53">عبدالبارئ الثبيتي</string>
+
+
+    <string name="author59">عبدالرحمن السديس</string>
+
+
+    <string name="author62">عبدالعزيز الأحمد</string>
+    <string name="author63">عبدالله البريمي</string>
+    <string name="author64">عبدالله الكندري</string>
+    <string name="author65">عبدالله المطرود</string>
+    <string name="author66">عبدالله بصفر</string>
+    <string name="author67">عبدالله خياط</string>
+    <string name="author68">عبدالله عواد الجهني</string>
+    <string name="author69">عبدالمحسن الحارثي</string>
+    <string name="author70">عبدالمحسن العبيكان</string>
+    <string name="author71">عبدالمحسن القاسم</string>
+    <string name="author72">عبدالهادي أحمد كناكري</string>
+    <string name="author73">عبدالودود حنيف</string>
+    <string name="author74">علي أبو هاشم</string>
+    <string name="author75">علي الحذيفي</string>
+    <string name="author76">علي بن عبدالرحمن الحذيفي</string>
+    <string name="author77">علي جابر</string>
+    <string name="author78">علي حجاج السويسي</string>
+    <string name="author79">عماد زهير حافظ</string>
+
+    <string name="author80">فارس عباد</string>
+    <string name="author81">لافي العوني</string>
+
+    <string name="author82">ماجد الزامل</string>
+    <string name="author83">مالك شيبة الحمد</string>
+
+
+    <string name="author86">ماهر شخاشير</string>
+    <string name="author87">محمد أيوب</string>
+    <string name="author88">محمد البراك</string>
+    <string name="author89">محمد الطبلاوي</string>
+    <string name="author90">محمد المحيسني</string>
+    <string name="author91">محمد المنشد</string>
+    <string name="author92">محمد جبريل</string>
+    <string name="author93">محمد رشاد الشريف</string>
+    <string name="author94">محمد صالح</string>
+
+
+    <string name="author97">محمد عبدالحكيم</string>
+    <string name="author98">محمد عثمان خان</string>
+    <string name="author99">محمود الرفاعي</string>
+    <string name="author100">محمود الشيمي</string>
+    <string name="author101">محمود خليل الحصري</string>
+    <string name="author102">محمود علي البنا</string>
+    <string name="author103">مشاري العفاسي</string>
+    <string name="author104">مصطفى إسماعيل</string>
+    <string name="author105">مصطفى اللاهوني</string>
+    <string name="author106">مصطفى رعد العزاوي</string>
+    <string name="author107">معيض الحارثي</string>
+    <string name="author108">مفتاح السلطني</string>
+    <string name="author109">موسى بلال</string>
+
+
+    <string name="author110">ناصر القطامي</string>
+    <string name="author111">نبيل الرفاعي</string>
+    <string name="author112"> نعمة الحسان</string>
+
+    <string name="author113">هاني الرفاعي</string>
+    <string name="author114">وليد النائحي</string>
+    <string name="author115">ياسر الدوسري</string>
+    <string name="author116">ياسر القرشي</string>
+    <string name="author117">ياسر المزروعي</string>
+    <string name="author118">يحيى حوا</string>
+    <string name="author119">يوسف الشويعي</string>
+    <string name="author120">يوسف بن نوح أحمد</string>
+    <string name="author54">عبدالبارئ محمد(حفص )</string>
+    <string name="author55">عبدالبارئ محمد(المعلم)</string>
+    <string name="author56">عبدالباسط عبدالصمد (حفص )</string>
+    <string name="author57">عبدالباسط عبدالصمد (ورش )</string>
+    <string name="author58">عبدالباسط عبدالصمد (المجود)</string>
+    <string name="author84">ماهر المعيقلي(المعلم)</string>
+    <string name="author85">ماهر المعيقلي(حفص )</string>
+    <string name="author95">محمد صديق المنشاوي(حفص )</string>
+    <string name="author96">محمد صديق المنشاوي(المجود)</string>
+    <string name="author60">عبدالرشيد صوفي(خلف )</string>
+    <string name="author61">عبدالرشيد صوفي(السوسي )</string>
+
+
+    <string name="app_name_recites">أسماء القراء</string>
+
+    <string name="title_activity_settings">إعدادات</string>
+    <string name="share">شارك</string>
+    <string name="rate">تقييم التطبيق على جوجل بلاي</string>
+    <string name="other">تطبيقات أخرى</string>
+    <string name="about">معلومات حول التطبيق</string>
+    <string name="share_app">مشاركة التطبيق مع الأصدقاء</string>
+    <string name="version">الإصدار  1.0</string>
+    <string name="text_about">تطبيق القرآن الكريم :الاستماع والتحميل ل120 قارئ </string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3933314948108331/5682369203</string>
+    <string name="title_activity_manager_db">القرآن الكريم</string>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
